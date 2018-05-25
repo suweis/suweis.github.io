@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
+
 Education
 ======
-* M.S. in Physics, University of Padova,
+* M.S. in Physics, University of Padova
+  * *Thesis title*: "A physics approach to ecosystem dynamics"
+  * *Advisor*: Prof. Amos Maritan
+  * *Final grade*: 110/110 cum laude
 
-&nbsp;&nbsp; asd asd lol
 
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
