@@ -110,7 +110,13 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.researchgate %}
-        <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="ai ai-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw"></i> ResearchGate</a></li>
+      {% endif %}
+      {% if author.academia %}
+        <li><a href="https://unipd.academia.edu/{{ author.academia }}"><i class="ai ai-academia ai-fw"></i> Academia</a></li>
+      {% endif %}
+      {% if author.mendeley %}
+        <li><a href="https://www.mendeley.com/profiles/{{ author.mendeley }}"><i class="ai ai-mendeley ai-fw"></i> Mendeley</a></li>
       {% endif %}
     </ul>
   </div>
