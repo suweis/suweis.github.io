@@ -83,7 +83,7 @@ author:
   bio              : "PhD student in Physics at the University of Padova"
   location         : "Padova"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.it/citations?user=pcfZJqQAAAAJ"
   email            : "leonardo.pacciani@phd.unipd.it"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9765-0728"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
