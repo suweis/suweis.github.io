@@ -25,11 +25,6 @@ You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
 * Ph.D. in *Physics*, University of Padova
   * **Supervisor**: Prof. Amos Maritan
 
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 ## Attended conferences, workshops and schools
 * [4th Italian Conference of Physics Students](http://ai-sf.it/cisf18/), *University of Pisa, Department of Physics*, 20th-23rd April 2018
 * [Stochastic Models in Ecology and Evolutionary Biology](http://www.pd.infn.it/~maritan/veniceworkshop/veniceworkshop.html), *Istituto Veneto di Scienze, Lettere ed Arti, Venezia*, 5th-7th April 2018
@@ -42,6 +37,11 @@ You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
 ## Organized conferences, workshops and schools
 * Sei Spritz Facili, *University of Padova, Department of Physics*
   * Cycle of six lectures, activity of the Padova Local Committee of the Italian Association of Physics Students
+
+## Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Talks
   <ul>{% for post in site.talks %}
