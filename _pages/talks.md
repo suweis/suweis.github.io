@@ -1,11 +1,10 @@
 ---
-layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+You can also see a [map](/talkmap.html) of all the places where I've given a talk.
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
