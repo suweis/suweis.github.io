@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -36,7 +35,7 @@ Publications
 
 Attended conferences, workshops and schools
 ======
-* ![4th Italian Conference of Physics Students](http://ai-sf.it/cisf18/), *University of Pisa, Department of Physics*, 20th-23rd April 2018
+* [4th Italian Conference of Physics Students](http://ai-sf.it/cisf18/), *University of Pisa, Department of Physics*, 20th-23rd April 2018
 * [Stochastic Models in Ecology and Evolutionary Biology](http://www.pd.infn.it/~maritan/veniceworkshop/veniceworkshop.html), *Istituto Veneto di Scienze, Lettere ed Arti, Venezia*, 5th-7th April 2018
 * [Spring College on the Physics of Complex Systems](http://indico.ictp.it/event/8299/), *International Centre for Theoretical Physics, Trieste*, 19th February - 16th March 2018
 * [32nd International Conference of Physics Students](http://www.icps2017.it/), *University of Turin, Department of Physics*, 7th-13th August 2017
