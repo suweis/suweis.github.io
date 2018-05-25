@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Physics, University of Padova,
-   asd asd 
+      asd asd lol
 
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
