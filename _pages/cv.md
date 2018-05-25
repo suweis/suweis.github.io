@@ -10,8 +10,7 @@ redirect_from:
 
 You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
 
-Education
-======
+# Education
 * M.S. in *Physics*, University of Padova
   * **Thesis title**: "A physics approach to ecosystem dynamics"
   * **Advisor**: Prof. Amos Maritan
