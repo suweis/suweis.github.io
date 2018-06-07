@@ -10,6 +10,4 @@ redirect_from:
 
 I'm Leonardo Pacciani, a PhD student at the University of Padova. I work in the [LiPh lab](http://www.pd.infn.it/~maritan/index.html) under the supervision of Prof. Amos Maritan.
 
-Lorem ipsum dolor sit amet.
-
-[LiPh lab test page](http://leonardopacciani.github.io/liph.github.io)
+This site is still a work in progress, so some pages could be incomplete.
