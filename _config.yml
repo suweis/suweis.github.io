@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Leonardo Pacciani Mori"
 title_separator          : "-"
-name                     : &name "Leonardo Pacciani"
-description              : &description "PhD student at University of Padova"
+name                     : &name "Leonardo Pacciani Mori"
+description              : &description "PhD student in physics at University of Padova"
 url                      : https://leonardopaccianimori.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leonardopacciani/leonardopaccianimori.github.io"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leonardo Pacciani"
+  name             : "Leonardo Pacciani Mori"
   avatar           : "profile.png"
   bio              : "PhD student in Physics at the University of Padova"
   location         : "Padova"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leonardopacciani"
+  github           : "LeonardoPaccianiMori"
   google_plus      :
   keybase          :
   instagram        :
