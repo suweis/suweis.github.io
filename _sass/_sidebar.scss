@@ -79,6 +79,8 @@
     display: block;
     width: auto;
     height: auto;
+    margin-left: 4px;
+    margin-right: 6px;
   }
 
   img {
@@ -87,7 +89,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 3px solid $border-color;
     }
   }
 }
