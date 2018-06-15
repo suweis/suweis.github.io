@@ -35,8 +35,8 @@ You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
 * [2nd Italian Conference of Physics Students](http://www.ai-sf.it/cisf2016/), *University of Turin, Department of Physics*, 22nd-24th April 2016
 
 ## Organized conferences, workshops and schools
-* Sei Spritz Facili, *University of Padova, Department of Physics*
-  * Cycle of six lectures, activity of the Padova Local Committee of the Italian Association of Physics Students
+* Sei Spritz Facili, *University of Padova, Department of Physics*, October 2016 - May 2017
+  <ul> <li style="list-style-type: none;">Series of six lectures covering the areas over which research is carried out in the Department. Activity of the Padova Local Committee of the Italian Association of Physics Students</li> </ul>
 
 ## Publications
   <ul>{% for post in site.publications %}
