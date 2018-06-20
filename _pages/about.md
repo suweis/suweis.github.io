@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Leonardo Pacciani Mori, a PhD student in Physics at the University of Padova. I work in the [LiPh lab](http://www.pd.infn.it/~maritan/index.html) under the supervision of Prof. Amos Maritan.
+I'm Leonardo Pacciani Mori /leo&#39;nardo pa&#39;t͡ʃani &#39;mɔːri/, a PhD student in Physics at the University of Padova. I work in the [LiPh lab](http://www.pd.infn.it/~maritan/index.html) under the supervision of Prof. Amos Maritan.
 
 [LiPh lab new website](http://sad-turing-8f0389.netlify.com/) (work in progress).
 
