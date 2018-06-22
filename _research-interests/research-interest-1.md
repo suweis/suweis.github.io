@@ -1,6 +1,6 @@
 ---
 title: "Research interest 1"
-excerpt: "Short description of rsearch interest 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of research interest 1<br/><img src='/images/500x300.png'>"
 collection: research-interests
 ---
 
