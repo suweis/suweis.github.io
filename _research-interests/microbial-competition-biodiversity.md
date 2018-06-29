@@ -1,10 +1,10 @@
 ---
-title: "Research interest 1"
-excerpt: "Short description of research interest 1<br/><img src='/images/500x300.png'>"
+title: "Competition and biodiversity in microbial ecosystems"
+excerpt: "Understanding the origin of biodiversity<br/><img src='/images/bacteria.png'>"
 collection: research-interests
 ---
 
-![Caption](/images/500x300.png)
+![Caption](/images/bacteria.png)
 
 This is a research interest sample, and must be filled with info.
 
