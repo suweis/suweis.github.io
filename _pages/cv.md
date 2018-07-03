@@ -48,10 +48,10 @@ You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-## Teaching
+<!--## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
 
 ## Associations
 * Secretary of the [Italian Association of Physics Students](http://www.ai-sf.it), 1st October 2017 - present day
