@@ -4,8 +4,8 @@ excerpt: "Understanding the origin of biodiversity<br/><img src='/images/bacteri
 collection: research-interests
 ---
 
-![Caption](/images/bacteria.png)
+![Microbial colony observed with SEM microscopy (false colors)](/images/bacteria.png)
 
-This is a research interest sample, and must be filled with info.
+Biodiversity is one of the most fascinating aspects of nature, and has always been the subject of intense study by the scientific community. In particular, one of the mysteries that still puzzles scientists is how it is possible that the large number of species that we observe can coexist, especially in competitive ecosystems: according to the [competitive exclusion principle](http://science.sciencemag.org/content/131/3409/1292), in fact, we would expect a limited number of species to be able to coexist while competing for a common pool of resources, but the number we observe in nature (for example in microbial communities) is *orders of magnitudes* larger.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean volutpat nisl id ligula vulputate, ac semper mauris egestas. Proin ultrices turpis felis, vel interdum lectus pellentesque eu. Phasellus pharetra ipsum quis felis faucibus convallis. Quisque imperdiet nibh in tincidunt fringilla. Donec eros quam, laoreet et libero sed, elementum sollicitudin tellus. Vivamus sem urna, fermentum vel vehicula quis, elementum ac velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi dui arcu, maximus id quam quis, blandit vehicula sem. Nam sit amet nisi feugiat, pharetra justo eget, feugiat nibh.
+My interest lies in studying with theoretical models how the competitive exclusion principle can be violated in microbial communities.
