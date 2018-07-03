@@ -306,3 +306,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Solving GitHub Metadata issue
+github: [metadata]
