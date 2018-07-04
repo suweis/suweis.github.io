@@ -5,6 +5,7 @@ permalink: /publication/2015-07-22-curvature-effect-thesis
 excerpt: "Bachelor's thesis"
 date: 2015-09-26
 venue: 'Padova Digital University Archive'
+authors: 'Leonardo Pacciani'
 paperurl: 'http://tesi.cab.unipd.it/49409/'
 citation: 'Pacciani, L. (2017). &quot;Curvature effect on patterning dynamics on spherical membranes&quot; <i>Padova Digital University Archive</i>.'
 ---
