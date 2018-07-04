@@ -5,7 +5,7 @@ permalink: /publication/2017-09-26-physics-approach-thesis
 excerpt: "Master's thesis"
 date: 2017-09-26
 venue: 'Padova Digital University Archive'
-
+authors: 'Leonardo Pacciani'
 citation: 'Pacciani, L. (2017). &quot;A physics approach to ecosystem dynamics&quot; <i>Padova Digital University Archive</i>.'
 ---
 <!--paperurl:'http://tesi.cab.unipd.it/57004/'-->
