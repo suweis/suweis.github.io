@@ -1,0 +1,3 @@
+ 	name	group
+0	"Curvature effect on patterning dynamics on spherical membranes"	4
+1	"A physics approach to ecosystem dynamics"	4
