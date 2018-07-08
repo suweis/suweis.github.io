@@ -17,7 +17,8 @@ ColourScale <- 'd3.scaleOrdinal()
 fn <- forceNetwork(Links = links, Nodes = nodes,
              Source = "source", Target = "target",
              Value = "value", NodeID = "name",
-             Group = "group", opacity = 1., colourScale = ColourScale)
+             Group = "group", opacity = 1.,
+             colourScale = ColourScale, fontSize = 12)
 fn$x$nodes$hyperlink <- weblinks
 fn$x$options$clickAction = 'window.open(d.hyperlink)'
 
