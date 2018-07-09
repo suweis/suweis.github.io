@@ -1,3 +1,14 @@
  	name	group
-0	"Curvature effect on patterning dynamics on spherical membranes"	4
-1	"A physics approach to ecosystem dynamics"	4
+0	"Amos Maritan"	1
+1	"Samir Suweis"	1
+2	"Jacopo Grilli"	1
+3	"Sandro Azaele"	1
+4	"Jorge Hidalgo"	1
+5	"Jayanth Banavar"	1
+6	"Curvature effect on patterning dynamics on spherical membranes"	4
+7	"A physics approach to ecosystem dynamics"	4
+8	"First generic publication"	3
+9	"Second generic publication"	2
+10	"Third generic publication"	3
+11	"Fourth generic publication"	3
+12	"Fifth generic publication"	2
