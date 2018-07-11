@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#By Leonardo Pacciani Mori, 11th July 2018
+#This script gets the necessary information from the _publications folder and generates the data needed to create the network with the R script network.R
+#It may be not written in the most intelligent or efficient way.
+#In order to update the network, execute this script any time some changes are made in the _publications folder.
+
 TEMP_AUTH="temp_auth.txt"		#definition of the files that will be used
 TEMP_LINE="temp_line.txt"
 TEMP_MISC="temp_misc.txt"
@@ -21,7 +26,6 @@ echo "" > $OUTPUT_TYPE
 echo "" > $TEMP_MISC
 echo "" > $TEMP_LINE
 echo "" > $TEMP
-
 
 
 #look for every file in _publications/, and extracts useful information and puts it into files needed to generate the network
@@ -58,7 +62,7 @@ do
 	echo -e "$((i-1))\t\""$(sed "${i}q;d" $OUTPUT_AUTH)"\"\t1" >> $NODES								#adds to $NODES the line relative to each author
 	echo -e "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q="$(sed "${i}q;d" $OUTPUT_AUTH | sed "s/\ /+/g") >> $URL	#adds to $URL the author's weblink (google scholar)
 done	
-sed -i '/^$/d' $URL	#deletes first blank line
+#sed -i '/^$/d' $URL	#deletes first blank line
 
 
 for i in $(seq 1 $titleN)	#loops over all articles and add the relative line in $NODES
@@ -79,44 +83,32 @@ echo $(tr '\n' '\t' < $URL) > $URL	#substitutes newlines with horizontal tags in
 
 
 #now we have to make the links between the nodes
-declare -a names
-readarray names < $OUTPUT_AUTH
 
-if [ -z "$names" ]; then
-	filesN=$(ls ../_publications | wc -l)		#number of files in folder
-	for j in $(seq 1 $filesN)
-	do
-		echo -e "$((j-1))\t$((j-1))\t$((j-1))\t1" >> $LINKS
-	done
-else
-
-	for name in ${names[@]}
-	do
-		grep "$name" $NODES >> $TEMP_LINE
-	done
+for i in $(seq 1 $authN)
+do
+	name=$(sed "${i}q;d" $OUTPUT_AUTH)
+	grep "$name" $NODES >> $TEMP_LINE
+done
 
 	cat $TEMP_LINE | perl -ne 'print unless $seen{$_}++' > $TEMP_MISC	#deletes duplicate lines
-	sed -i '/^$/d' $TEMP_MISC
-
 	length=$(cat $TEMP_MISC | wc -l)
-	for j in $(seq 1 $length)
+	for j in $(seq 2 $length)
 	do
-		source=$(sed "${j}q;d" $TEMP_MISC | head -c 1)
+		source=$(sed "${j}q;d" $TEMP_MISC | cut -f 1)
 		name=$(cat $TEMP_MISC | sed "${j}q;d" | grep -oP '(?<=").*(?=")')
 		grep -n "$name" $TEMP_AUTH > $TEMP
 		pubN=$(cat $TEMP | wc -l)		#number of publications in which the author appears
-	
+
 		for q in $(seq 1 $pubN)
 		do
-			targetline=$(sed "${q}q;d" $TEMP | head -c 1)
+			targetline=$(sed "${q}q;d" $TEMP |cut -d ":" -f 1)
 			target=$((targetline+authN-1))
 			echo -e "$j\t${source}\t${target}\t1" >> $LINKS
 			
 		done
 	
 	done
-		
-fi
+
 
 
 
@@ -130,7 +122,8 @@ length=$(cat $LINKS | wc -l)
 for ((k=2;k<=$length;k++))
 do
 oldline=$(sed "${k}q;d" $LINKS)
-newline=$(echo ${oldline:0:0}$((k-2))${oldline:1})
+old_cut=$(cut -f 2-4 <<< $oldline)
+newline=$(echo $((k-2))"\t"$old_cut)
 sed -i "s/${oldline}/${newline}/" $LINKS
 done
 
@@ -147,3 +140,7 @@ rm $TEMP_MISC
 rm $TEMP
 
 Rscript network.R
+
+rm $URL
+rm $NODES
+rm $LINKS
