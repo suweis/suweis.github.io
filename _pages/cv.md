@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
+You can also download my CV as a [pdf file](/files/CV_PaccianiMori.pdf).
 
 ## Education
 * M.S. in *Physics*, University of Padova
@@ -26,6 +26,7 @@ You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
   * **Supervisor**: Prof. Amos Maritan
 
 ## Attended conferences, workshops and schools
+<!--* [Conference on Complex Systems 2018](http://ccs2018.web.auth.gr/), *Aristotle University of Thessaloniki*, 23rd-28th September 2018-->
 * [4th Italian Conference of Physics Students](http://ai-sf.it/cisf18/), *University of Pisa, Department of Physics*, 20th-23rd April 2018
 * [Stochastic Models in Ecology and Evolutionary Biology](http://www.pd.infn.it/~maritan/veniceworkshop/veniceworkshop.html), *Istituto Veneto di Scienze, Lettere ed Arti, Venezia*, 5th-7th April 2018
 * [Spring College on the Physics of Complex Systems](http://indico.ictp.it/event/8299/), *International Centre for Theoretical Physics, Trieste*, 19th February - 16th March 2018
