@@ -46,7 +46,7 @@ sed -i '/^$/d' $OUTPUT_TYPE
 cat $TEMP_AUTH | sed "s/,\ /\n/g" | perl -ne 'print unless $seen{$_}++' > $OUTPUT_AUTH	#deletes duplicate lines and returns a newline separated list of all the authors
 
 
-sed -i '/Leonardo Pacciani/d' $OUTPUT_AUTH	#removes "Leonardo Pacciani" from the author list
+sed -i '/Samir Suweis/d' $OUTPUT_AUTH	#removes "Leonardo Pacciani" from the author list
 
 
 authN=$(cat $OUTPUT_AUTH | wc -l)		#total number of authors
