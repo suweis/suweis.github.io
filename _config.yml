@@ -1,19 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Leonardo Pacciani Mori"
+title                    : "Samir Suweis"
 title_separator          : "-"
-name                     : &name "Leonardo Pacciani Mori"
-description              : &description "PhD student in Physics at University of Padova"
-url                      : https://www.leonardopaccianimori.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Samir Suweis"
+description              : &description "Research Scientist at University of Padova"
+url                      : https://suweis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leonardopacciani/personal-website"
+repository               : "suweis/suweis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -30,7 +23,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -55,7 +48,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :"SamirSuweis"
 facebook:
   username               :
   app_id                 :
@@ -73,18 +66,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  UA-71820899-3
+    tracking_id          : UA-122677250-1
 
 
 # Site Author
 author:
-  name             : "Leonardo Pacciani Mori"
-  avatar           : "profile.png"
-  bio              : "PhD student in Physics at the University of Padova"
+  name             : "Samir Suweis"
+  avatar           : "Samir_Suweis.jpg"
+  bio              : "Research Scientist (RTDA) in Physics at the University of Padova"
   location         : "Padova"
   employer         :
-  googlescholar    : "https://scholar.google.it/citations?user=pcfZJqQAAAAJ"
-  email            : "leonardo.pacciani@phd.unipd.it"
+  googlescholar    : "https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it"
+  email            : "samir#dot#suweis at unipd.it"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +85,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LeonardoPaccianiMori"
+  github           : "suweis"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9765-0728"
+  orcid            : "https://orcid.org/0000-0002-1603-8375"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,9 +103,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchgate     : "Leonardo_Pacciani"
-  academia         : "LeonardoPacciani"
-  mendeley         : "leonardo-pacciani"
+  researchgate     : "Samir_Suweis"
+  academia         : "SamirSuweis"
+  mendeley         : "samir-suweis2"
 
 
 # Reading Files
@@ -256,7 +249,7 @@ timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zo
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -307,6 +300,3 @@ compress_html:
   ignore:
     envs: development
 
-
-# Solving GitHub Metadata issue
-github: [metadata]
