@@ -88,22 +88,6 @@ Living	Systems”,	within	the	European	Conference	of	Complex	System	2014	(ECCS14
 
 **ACADEMIC	ACTIVITIES** .	 _Member	of	the	Steering	Commett_ e	of	the	Complex	System	Society	(2017-2020).
 
-**MAJOR	COLLABORATIONS	**
-
-Field Collaborators
-Statistical	Physics	and	
-Complex	Systems	Modeling
-
-A.	Maritan (IT),	Shnerb,	N.	(IS);	J.	Grilli,,	J.R.	Banavar	(USA),	F.	Simini	
-and	S.	Azaele	(UK);	Munoz	(ES)
-Neuroscience M.	Corbetta,	S.	Vassanelli	(Italy)
-Eco-Hydrology,	Virtual	Water	Networks	
-and	Food	Security
-
-A.	 Rinaldo,	 E.	 Bertuzzo	 (Switzerland),	 I.	 Rodriguez-Iturbe,	 M.	
-D’Odorico,	J.	Carr	and	K.	Davis (USA);
-Ecology S.	Allesina (USA) C.	DeVargas	(France),	Iudicone	(Italy)
-
 **PUBLICATION	AND	CITATION	STATISTICS**
 
 I	have	4 0	 publications	in	refereed	journals,	including	 **1	in	Nature,	 2	 in	
