@@ -20,7 +20,7 @@ Researcher	unique	identifier ORCID: 	0000 - 0002 - 1603 - 8375;	SCOPUS	ID:	 3608
 
 Nationality:	Italian.	Date	of	birth:	21.02.1984.	
 
-Homepage:	https://impactstory.org/SamirSuweis
+My [Google Scholar page] (https://scholar.google.it/)
 
 ## EDUCATION
 
@@ -42,78 +42,70 @@ Astronomy	Department,	Padova	University.
 
 #### FELLOWSHIPS
 
-**2013 - 2015	** Young		Scholar Grant,	Physics	&	Astronomy	Department,	University	of	Padova,	Italy (18000 E).
+**2013 - 2015** Young		Scholar Grant,	Physics	&	Astronomy	Department,	University	of	Padova,	Italy (18000 E).
 
-**05/2010- 01/2011.** _Visiting	 research	 student,	_ Civil	 and	 Environmental	 Engineering	 Department,	
+**05/2010- 01/2011** Visiting	 research	 student,	_ Civil	 and	 Environmental	 Engineering	 Department,	
 Princeton			University,	NJ	(USA).
 
 ## SUPERVISION	OF	BACHELOR,	MASTER	AND	GRADUATE	STUDENTS
 
-I	have	co-supervised (research	design	and	mentoring) 5	Graduate,	7	Master	and	4	Bachelor	students.
+I	have	co-supervised (research	design and	mentoring) 5	Graduate,	7	Master	and	4	Bachelor students. I'm now supervising Ilenia (Ph.D.), Akke (Ph.D) and collaborating with Anna and Elvy (post-docs).
 
 ## TEACHING	ACTIVITIES
 
 I	 regularly	 teach	 from	 2015	 around	 80-100	 hrs	 per	 year.	 This	 year	 I	 teach	 a	 course	 on	 Quantum	
 Mechanics	 at	 the	 Mathematics	 Departments	 and	 part	 of	 a	 course	 on	 Statistical	 Mechanic	 of	 Complex	
 System	 at	 the	 Engineering	 Department.	 Since	 2012	 I	 teach	 in	 a	 Master	 of	“Scientific	 Communication”	
-organized	yearly	by	the	University	of	Padova **.	** I’m	actively	involved	in	scientific	dissemination	and	public	
-engagement	(with	Schools,	citizenships...).	
+organized	yearly	by	the	University	of	Padova.	
+** I’m	actively	involved	in	scientific	dissemination	and	public	engagement	(with	Schools,	citizenships...).**
 
-I’m	member	of	the	Ph.D.	Neuroscience	panel	@University	of	Padova.
 
 ## ORGANISATION	OF	SCIENTIFIC	MEETINGS
 
-**25/09/2018**. International	 Satellite	 Workshop	 @CCS2018 “Robustness,	 Adaptability	 and	 Critical	
-Transitions	in	Living	Systems #2” _.	_ Thessaloniki, Greece
+**25/09/2018**. International	 Satellite	 Workshop	 @CCS2018 “Robustness,	 Adaptability	 and	 Critical	Transitions	in	Living	Systems #3”.	Thessaloniki, Greece
 
-**12/06/2018**. International	Satellite	Workshop @NetSci2018:	“ _Ecological	networks:	spandrels,	selection,	
-and	assembly.	_ Paris,	France
+**12/06/2018**. International	Satellite	Workshop @NetSci2018:	“Ecological	networks:	spandrels,	selection, and	assembly." Paris,	France
 
-**05 - 07/04/2018** .	 International	 Workshop:	 “Stochastic	 Modeling	 in	 Ecology	 and	 Evolutionary	 Biology”,	
-Venice,	Italy.	
+**05-07/04/2018**.	International	 Workshop:	 “Stochastic	 Modeling	 in	 Ecology	 and	 Evolutionary	 Biology”, Venice,	Italy.	
 
-**20 /09/201 6** International	 Conference	 Satellite:	 “Robustness,	 Adaptability	 and	 Critical	 Transitions	 in	
-Living	Systems #2”,	within	the	International	Conference	of	Complex	System	2016	(CCS16).	I	have	been	
-the	leading	organizer	of	this	conference	satellite.
+**20/09/2016** International	 Satellite	 Workshop	 @CCS2016	 “Robustness,	 Adaptability	 and	 Critical	 Transitions	 in	
+Living	Systems #2". Amsterdam, Netherland
 
-**27 - 29/06/201 6	** XXI	Italian	National	Conference	of	Statistical	Physics	and	Complex	Systems	(member	of	
-the	organizing	committee).
+**27-29/06/2016** XXI	Italian	National	Conference	of	Statistical	Physics	and	Complex	Systems	(member	of the	organizing	committee).
 
-**16 - 19/09/2015** International	Workshop: “Living	systems,	from	interaction	patterns	to	critical	behaviour”,		
-Venezia,	(Italy).	
+**16-19/09/2015** International	Workshop: “Living	systems,	from	interaction	patterns	to	critical	behaviour”.		
+Venezia, (Italy).	
 
 
-**2 4/09/2014** International	 Conference	 Satellite:	 “Robustness,	 Adaptability	 and	 Critical	 Transitions	 in	
-Living	Systems”,	within	the	European	Conference	of	Complex	System	2014	(ECCS14).	
+**24/09/2014** International	Satellite	Workshop @ECCS2014:	 “Robustness,	 Adaptability	 and	 Critical	 Transitions	 in	
+Living	Systems”. Lucca, Italy
 
-## ACADEMIC	ACTIVITIES	 _Member	of	the	Steering	Commett_ e	of	the	Complex	System	Society	(2017-2020).
+**2016-2019** Member of the Program Committee of International Conference on Complexity, Future Information Systems and Risk (COMPLEXIS). Edition 1-4.
+
+## ACADEMIC	ACTIVITIES	 
+Member	of	the	Steering	Commettee	of	the	Complex	System Society	(2017-2020).
+Panel member of the Ph.D. school in Neuroscience (PNC).
 
 ## PUBLICATION	AND	CITATION	STATISTICS
 
-I	have	4 0	 publications	in	refereed	journals,	including	 **1	in	Nature,	 2	 in	
+I	have	>40	 publications	in	refereed	journals,	including	 **1	in	Nature,	 2	 in	
 Nature	Communications,	1	Science	Advance, 4	in	PNAS and 1	Review	
 of	 Modern	 Physics** .	 Our	 research	 has	 been also	 mentioned	 in	
 American	 Scientist,	 Nature	 News	 &	 Views	 PNAS	 Commentary,	
-European	 Commission	 DG	 Environment	 and	 Unesco	 Global	 Water	
-Forum.
+European	 Commission	 DG	 Environment	 and	 Unesco	 Global	 Water Forum.
+
 ## INVITED	PRESENTATIONS	AT	INTERNATIONAL	SCHOOLS,	WORKSHOPS	&	CONFERENCES
 
-I	 have	 disseminated	 my	 work	 internationally	 through	 **13	 invited	talks	and	more	that	14	contributed	
-presentations**. During	2017-2018	I	have	been	invited	@
-Workshop	Satellite	“Information	Processing	in	Complex	Systems” @CCS 2018,	25/09/2018.
-Advanced	 Workshop	 on	 Nonequilibrium	 Systems	 in	 Physics,	 Geosciences	 and	 Life	 Sciences",	@ICTP,	
-Trieste,	Italy		22/05/2018.
-International	Summer	School	on	Complex	Network, Salina,	Sicilia,	07/09/ 2017	
-
-XXII	Convegno	Nazionale	di	Fisica	Statistica	e	dei Sistemi	Complessi.	Giugno 29,	2017.	Parma	Italy
+I	 have	 disseminated	 my	 work	 internationally	 through	 **>15	 invited	talks** beside many	contributed	
+presentations (see my Talk section for details). Some of my presentations can be found [here] (https://www.slideshare.net/suweis/presentations)
 
 ## RESEARCH	GRANTS	– THIRD-PARTY	FUNDING
 
-STARS	2018	Starting	Grant	(2018 - ~	 140 .000	Euros) “Biodiversity,	Robustness,	Adaptability	and	Critical	
+STARS	2018	Starting	Grant	(2018 - ~140 .000	Euros) “Biodiversity,	Robustness,	Adaptability	and	Critical	
 Transitions in	living	interacting	systems”
 
-Strategic	 Investment	 Departmental	 Project	 “ _Quantitative	 Characterization	 of	 Biodiversity	 in	 Macro-
-biomes:	a	Statistical	Physics	Approach”	_ (2017	- ~	40.000	Euros).	I’m	the	PI	of	the	project.
+Strategic	 Investment	 Departmental	 Project	 “ Quantitative	 Characterization	 of	 Biodiversity	 in	 Macro-
+biomes:	a	Statistical	Physics	Approach”	 (2017 - ~40.000	Euros).	I’m	the	PI	of	the	project.
 
 Senior	Research	Grant	(2013	- ~	55.000	Euros)	“Statistical	Physics	of	Ecological	Networks:	from	Patterns	
 to	Principles”	funded	by	the	University	of	Padova	within	the	Young	Scholars	Project	- aimed	at	support	
