@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2018-11-09-Arcidosso
 venue: "ICTP"
-date: 2018-11-09
+date: 2018-09-11
 location: "Arcidosso, Italy"
 ---
 
