@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-07-09-MSCXschool
 venue: "Salina Island, Sicily"
-date: 2017-07-09
+date: 2017-09-07
 location: "Salina, Italy"
 ---
 
