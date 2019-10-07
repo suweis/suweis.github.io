@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Network Neuroscience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Ph.D. course"
+permalink: /teaching/2019-first-semester-2
+venue: "University of Padova, Neuroscience Ph.D. @PNC"
+date: 2019/10/01 - 2020/02/01
+location: "Padova, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+See here for mode information on the Ph.D. school: http://pnc.unipd.it/
