@@ -49,18 +49,23 @@ Princeton			University,	NJ	(USA).
 
 ## SUPERVISION	OF	BACHELOR,	MASTER	AND	GRADUATE	STUDENTS
 
-I	have	co-supervised (research	design and	mentoring) 5	Graduate,	7	Master	and	4	Bachelor students. I'm now supervising Ilenia (Ph.D.), Akke (Ph.D) and collaborating with Anna and Elvy (post-docs).
+I	have	co-supervised (research	design and	mentoring) 5	Graduate,	7	Master	and	4	Bachelor students. I'm now supervising Ilenia (Ph.D.), Benedetta (Master) and collaborating with Carlos, Anna and Elvy (post-docs).
 
 ## TEACHING	ACTIVITIES
 
-I	 regularly	 teach	 from	 2015	 around	 80-100	 hrs	 per	 year.	 This	 year	 I	 teach	 a	 course	 on	 Quantum	
-Mechanics	 at	 the	 Mathematics	 Departments	 and	 part	 of	 a	 course	 on	 Statistical	 Mechanic	 of	 Complex	
+I	 regularly	 teach	 from	 2015	 around	 80-100	 hrs	 per	 year.	 This	 year	 I	 teach	 a	 course	 on	 Quantitative Life Science	 and	 part	 of	 a	 course	 on	 Statistical	 Mechanic	 of	 Complex	
 System	 at	 the	 Engineering	 Department.	 Since	 2012	 I	 teach	 in	 a	 Master	 of	“Scientific	 Communication”	
 organized	yearly	by	the	University	of	Padova.	
 ** I’m	actively	involved	in	scientific	dissemination	and	public	engagement	(with	Schools,	citizenships...).**
 
 
-## ORGANISATION	OF	SCIENTIFIC	MEETINGS
+## ORGANISATION	OF	WORKSHOPS, CONFERENCES AND SCHOOLS
+
+**04/10/2019**. International Satellite	@CCS2019 “Computational Social Science. Towards an Ecological Approach of Information Ecosystems”.	Singapore
+
+**09-14/09/2019**. International	 Summer School	 @ConTaMiNeuro “Computational and Theoretical Models in Neuroscience”.	Venice, Italy
+
+**01-03/07/2019**. First National Conference of the Italian Chapter of the Complex System Society (CCS/Italy 2019), Trento, Italy
 
 **25/09/2018**. International	 Satellite	 Workshop	 @CCS2018 “Robustness,	 Adaptability	 and	 Critical	Transitions	in	Living	Systems #3”.	Thessaloniki, Greece
 
@@ -88,18 +93,21 @@ Panel member of the Ph.D. school in Neuroscience (PNC).
 
 ## PUBLICATION	AND	CITATION	STATISTICS
 
-I	have	>40	 publications	in	refereed	journals,	including	 **1	in	Nature,	 2	 in	
+I	have	>50	 publications	in	refereed	journals,	including	 **1	in	Nature,	 2	 in	
 Nature	Communications,	1	Science	Advance, 4	in	PNAS and 1	Review	
 of	 Modern	 Physics** .	 Our	 research	 has	 been also	 mentioned	 in	
 American	 Scientist,	 Nature	 News	 &	 Views	 PNAS	 Commentary,	
 European	 Commission	 DG	 Environment	 and	 Unesco	 Global	 Water Forum.
+See https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it for a complete list.
 
 ## INVITED	PRESENTATIONS	AT	INTERNATIONAL	SCHOOLS,	WORKSHOPS	&	CONFERENCES
 
-I	 have	 disseminated	 my	 work	 internationally	 through	 **>15	 invited	talks** beside many	contributed	
+I	 have	 disseminated	 my	 work	 internationally	 through	 **>18	 invited	talks** beside many	contributed	
 presentations (see my Talk section for details). Some of my presentations can be found [here] (https://www.slideshare.net/suweis/presentations)
 
 ## RESEARCH	GRANTS	– THIRD-PARTY	FUNDING
+
+TEAMS Vising Cariparo Grant, (2019  ~30.000 Euros) "Towards an Ecological Approach of Information Ecosystems"
 
 STARS	2018	Starting	Grant	(2018 - ~140 .000	Euros) “Biodiversity,	Robustness,	Adaptability	and	Critical	
 Transitions in	living	interacting	systems”
@@ -113,16 +121,13 @@ innovative	and	excellent	research	proposed	by young	scientists.	I	was	the	PI.
 
 ## SCIENCE	COMMUNICATION	– ONLY	LAST	YEAR
 
-**23/04/2018** .	 Finalist	 at	the	 national	 competition	 for	 communication	 in	 science	 of	 young	 scholars:
+ **23/10/2018** Simposio ““Nuovi orizzonti di Una Scienza in Divenire”, Gran Sasso Science Institute (GSSI), Aquila, Italy.
+ 
+ **23/04/2018** .	 Finalist	 at	the	 national	 competition	 for	 communication	 in	 science	 of	 young	 scholars:
 “Giovedi	Scienza”,	Torino,	Italy.	
 
 **25/10/2017	 e	 13/04/2018** ,	“I Robot”,	seminar	 on Big	 Data	 and	Artificial	 Intelligent	 to	 students	 and	
 teachers	of	high	schools	in	Milan organized	by Diesse	Lombardia (Milan,	Italy).
 
-```
-Index Scholar Scopus
-Publications 40	 40	
-Citations 1062	 709	
-h-index 17	 15	
 ```
 
