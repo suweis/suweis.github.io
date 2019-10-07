@@ -1,8 +1,8 @@
 ---
 title: "Quantitative Life Science"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2019-first-semester
+type: "Master course"
+permalink: /teaching/2019-first-semester-master
 venue: "University of Padova, Physics of Data"
 date: 2019/10/01 - 2020/02/01
 location: "Padova, Italy"
