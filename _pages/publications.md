@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<p> A complete list of my publication can be found <a href="https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it"> here </a>
+<p> A complete list of my publication can be found <a href="https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it"> <u> here </u> </a> or in the ORCID link on the left.
   
 <p>You can also see a <u><a href="/publications/collab_network.html">network</a></u> representing all my publications and collaborators.</p>
 
