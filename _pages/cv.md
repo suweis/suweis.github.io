@@ -31,9 +31,13 @@ Fédérale	Lausanne	(EPFL)	– Lausanne	(Switzerland).	Supervisor:	 _Andrea	Rina
 
 #### CURRENT	POSITION(S)
 
-**from	04/ 2016**. _Research	Scientist	(RTDa)_ ,	Physics	and	Astronomy	Department,	Padova	University,	Italy.	
+**from	06/2022**. _Associate Professor_ ,	Physics	and	Astronomy	Department,	Padova	University,	Italy.	
 
 #### PREVIOUS	POSITIONS
+
+**2019 - 2022**. _Assistant Professor	(RTDb)_ ,	Physics	and	Astronomy	Department,	Padova	University,	Italy.
+
+**2016 - 2019**. _Research	Scientist	(RTDa)_ ,	Physics	and	Astronomy	Department,	Padova	University,	Italy.
 
 **2013 - 2016** .	 _Post-Doc	Researcher_ ,	Physics	and	Astronomy	Department,	Padova	University,	Italy.	
 
@@ -53,81 +57,21 @@ I	have	co-supervised (research	design and	mentoring) 5	Graduate,	7	Master	and	4	
 
 ## TEACHING	ACTIVITIES
 
-I	 regularly	 teach	 from	 2015	 around	 80-100	 hrs	 per	 year.	 This	 year	 I	 teach	 a	 course	 on	 Quantitative Life Science	 and	 part	 of	 a	 course	 on	 Statistical	 Mechanic	 of	 Complex	
-System	 at	 the	 Engineering	 Department.	 Since	 2012	 I	 teach	 in	 a	 Master	 of	“Scientific	 Communication”	
-organized	yearly	by	the	University	of	Padova.	
-** I’m	actively	involved	in	scientific	dissemination	and	public	engagement	(with	Schools,	citizenships...).**
+I	 regularly teach 120 hrs per year over three courses: Physical Models of Living Systems (Master level, Physics of Data program), General Physics (Bachelor level, Astronomy and Chemistry program), and Computational Neuroscience (Ph.D. level, Neuroscience Program). 
+Since	 2012	 I	 have taught in a	 Master of	“Scientific	 Communication”	organized	yearly	by	the	University	of	Padova.	
+** I’m	actively	involved	in	scientific	dissemination	and	public	engagement	(with	Schools,	and citizenships...).**
 
-
-## ORGANISATION	OF	WORKSHOPS, CONFERENCES AND SCHOOLS
-
-**04/10/2019**. International Satellite	@CCS2019 “Computational Social Science. Towards an Ecological Approach of Information Ecosystems”.	Singapore
-
-**09-14/09/2019**. International	 Summer School	 @ConTaMiNeuro “Computational and Theoretical Models in Neuroscience”.	Venice, Italy
-
-**01-03/07/2019**. First National Conference of the Italian Chapter of the Complex System Society (CCS/Italy 2019), Trento, Italy
-
-**25/09/2018**. International	 Satellite	 Workshop	 @CCS2018 “Robustness,	 Adaptability	 and	 Critical	Transitions	in	Living	Systems #3”.	Thessaloniki, Greece
-
-**12/06/2018**. International	Satellite	Workshop @NetSci2018:	“Ecological	networks:	spandrels,	selection, and	assembly." Paris,	France
-
-**05-07/04/2018**.	International	 Workshop:	 “Stochastic	 Modeling	 in	 Ecology	 and	 Evolutionary	 Biology”, Venice,	Italy.	
-
-**20/09/2016** International	 Satellite	 Workshop	 @CCS2016	 “Robustness,	 Adaptability	 and	 Critical	 Transitions	 in	
-Living	Systems #2". Amsterdam, Netherland
-
-**27-29/06/2016** XXI	Italian	National	Conference	of	Statistical	Physics	and	Complex	Systems	(member	of the	organizing	committee).
-
-**16-19/09/2015** International	Workshop: “Living	systems,	from	interaction	patterns	to	critical	behaviour”.		
-Venezia, (Italy).	
-
-
-**24/09/2014** International	Satellite	Workshop @ECCS2014:	 “Robustness,	 Adaptability	 and	 Critical	 Transitions	 in	
-Living	Systems”. Lucca, Italy
-
-**2016-2019** Member of the Program Committee of International Conference on Complexity, Future Information Systems and Risk (COMPLEXIS). Edition 1-4.
 
 ## ACADEMIC	ACTIVITIES	 
-Member	of	the	Steering	Commettee	of	the	Complex	System Society	(2017-2020).
+Member	of the	Complex	System Society	(2017).
 Panel member of the Ph.D. school in Neuroscience (PNC).
 
 ## PUBLICATION	AND	CITATION	STATISTICS
 
-I	have	>50	 publications	in	refereed	journals,	including	 **1	in	Nature,	 2	 in	
-Nature	Communications,	1	Science	Advance, 4	in	PNAS and 1	Review	
-of	 Modern	 Physics** .	 Our	 research	 has	 been also	 mentioned	 in	
-American	 Scientist,	 Nature	 News	 &	 Views	 PNAS	 Commentary,	
-European	 Commission	 DG	 Environment	 and	 Unesco	 Global	 Water Forum.
-See https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it for a complete list.
+My publications include 1 in Nature, 1 in Science Advance, 4 in Nature Communications, 1 Nature Sustainability, 1 in Nature ISME Journal, 1 Nucleic Acid Research, 7 in PNAS, 1 Review of Modern Physics.
+
+See my [Scopus] (https://www.scopus.com/authid/detail.uri?authorId=36087945400) or [Google Scholar] page (https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it) for an updated list of my publications 
 
 ## INVITED	PRESENTATIONS	AT	INTERNATIONAL	SCHOOLS,	WORKSHOPS	&	CONFERENCES
 
-I	 have	 disseminated	 my	 work	 internationally	 through	 **>18	 invited	talks** beside many	contributed	
-presentations (see my Talk section for details). Some of my presentations can be found [here] (https://www.slideshare.net/suweis/presentations)
-
-## RESEARCH	GRANTS	– THIRD-PARTY	FUNDING
-
-TEAMS Vising Cariparo Grant, (2019  ~30.000 Euros) "Towards an Ecological Approach of Information Ecosystems"
-
-STARS	2018	Starting	Grant	(2018 - ~140 .000	Euros) “Biodiversity,	Robustness,	Adaptability	and	Critical	
-Transitions in	living	interacting	systems”
-
-Strategic	 Investment	 Departmental	 Project	 “ Quantitative	 Characterization	 of	 Biodiversity	 in	 Macro-
-biomes:	a	Statistical	Physics	Approach”	 (2017 - ~40.000	Euros).	I’m	the	PI	of	the	project.
-
-Senior	Research	Grant	(2013	- ~	55.000	Euros)	“Statistical	Physics	of	Ecological	Networks:	from	Patterns	
-to	Principles”	funded	by	the	University	of	Padova	within	the	Young	Scholars	Project	- aimed	at	support	
-innovative	and	excellent	research	proposed	by young	scientists.	I	was	the	PI.
-
-## SCIENCE	COMMUNICATION	– ONLY	LAST	YEAR
-
- **23/10/2018** Simposio ““Nuovi orizzonti di Una Scienza in Divenire”, Gran Sasso Science Institute (GSSI), Aquila, Italy.
- 
- **23/04/2018** .	 Finalist	 at	the	 national	 competition	 for	 communication	 in	 science	 of	 young	 scholars:
-“Giovedi	Scienza”,	Torino,	Italy.	
-
-**25/10/2017	 e	 13/04/2018** ,	“I Robot”,	seminar	 on Big	 Data	 and	Artificial	 Intelligent	 to	 students	 and	
-teachers	of	high	schools	in	Milan organized	by Diesse	Lombardia (Milan,	Italy).
-
-```
-
+ I have disseminated my work internationally through more than 30 invited talks, 9 International Schools and 25 contributed presentations. Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum. ![image](https://github.com/suweis/suweis.github.io/assets/7385620/1882d140-ceab-4dc7-8767-ff7888c86af7)
