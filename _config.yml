@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Samir Suweis"
 title_separator          : "-"
 name                     : &name "Samir Suweis"
-description              : &description "Research Scientist at University of Padova"
+description              : &description "Associate Professor at University of Padova"
 url                      : https://suweis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suweis/suweis.github.io"
@@ -73,9 +73,9 @@ analytics:
 author:
   name             : "Samir Suweis"
   avatar           : "Samir_Suweis.jpg"
-  bio              : "Research Scientist (RTDA) in Physics at the University of Padova"
-  location         : "Padova"
-  employer         :
+  bio              : "Associate Professor at Physics & Astronomy Dept., Padova Neuroscience Center"
+  location         : "LIPh, Padova"
+  employer         : "University of Padova"
   googlescholar    : "https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it"
   email            : "samir.suweis@unipd.it"
   uri              :
