@@ -66,13 +66,12 @@ Since	 2012	 I	 have taught in a	 Master of	“Scientific	 Communication”	orga
 Member	of the	Complex	System Society	(2017).
 Panel member of the Ph.D. school in Neuroscience (PNC).
 
-## PUBLICATION	AND	CITATION	STATISTICS
+## PUBLICATIONS
 
-My publications include 1 in Nature, 1 in Science Advance, 4 in Nature Communications, 1 Nature Sustainability, 1 in Nature ISME Journal, 1 Nucleic Acid Research, 7 in PNAS, 1 Review of Modern Physics.
+ Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum. My publications include 1 in Nature, 2 in Science Advance, 5 in Nature Communications, 2 Nature Sustainability, 1 in Nature ISME Journal, 1 Nucleic Acid Research, 10 in PNAS, 1 Review of Modern Physics. 
 
 See my [Scopus] (https://www.scopus.com/authid/detail.uri?authorId=36087945400) or [Google Scholar] page (https://scholar.google.it/citations?user=oorpe-wAAAAJ&hl=it) for an updated list of my publications 
 
 ## INVITED	PRESENTATIONS	AT	INTERNATIONAL	SCHOOLS,	WORKSHOPS	&	CONFERENCES
-
- I have disseminated my work internationally through more than 30 invited talks, 9 International Schools and 25 contributed presentations. Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum. My publications include 1 in Nature, 2 in Science Advance, 5 in Nature Communications, 2 Nature Sustainability, 1 in Nature ISME Journal, 1 Nucleic Acid Research, 10 in PNAS, 1 Review of Modern Physics. I have disseminated my work internationally through more than 30 invited talks, 10 International Schools and 25 contributed presentations. Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum.
+I have disseminated my work internationally through more than 30 invited talks, 10 International Schools and 25 contributed presentations. Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum.
 
