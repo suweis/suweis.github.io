@@ -74,4 +74,5 @@ See my [Scopus] (https://www.scopus.com/authid/detail.uri?authorId=36087945400) 
 
 ## INVITED	PRESENTATIONS	AT	INTERNATIONAL	SCHOOLS,	WORKSHOPS	&	CONFERENCES
 
- I have disseminated my work internationally through more than 30 invited talks, 9 International Schools and 25 contributed presentations. Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum. ![image](https://github.com/suweis/suweis.github.io/assets/7385620/1882d140-ceab-4dc7-8767-ff7888c86af7)
+ I have disseminated my work internationally through more than 30 invited talks, 9 International Schools and 25 contributed presentations. Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum. My publications include 1 in Nature, 2 in Science Advance, 5 in Nature Communications, 2 Nature Sustainability, 1 in Nature ISME Journal, 1 Nucleic Acid Research, 10 in PNAS, 1 Review of Modern Physics. I have disseminated my work internationally through more than 30 invited talks, 10 International Schools and 25 contributed presentations. Our research has been mentioned in American Scientist, Nature News & Views PNAS Commentary, European Commission DG Environment and Unesco Global Water Forum.
+
